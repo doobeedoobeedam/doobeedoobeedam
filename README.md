@@ -1,14 +1,12 @@
 - 👋 Hi, I’m @kcoz
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Tailwind
-- 📫 Reach me on wecitra49@gmail.com
+- 📫 Reach me on [![Gmail Badge](https://img.shields.io/badge/-wecitra49@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wecitra49@gmail.com)](mailto:wecitra49@gmail.com) 
 
 <!---
 kcoz/kcoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![Gmail Badge](https://img.shields.io/badge/-wecitra49@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wecitra49@gmail.com)](mailto:wecitra49@gmail.com) 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kcoz&layout=compact">
  
