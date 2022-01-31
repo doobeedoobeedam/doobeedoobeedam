@@ -1,9 +1,9 @@
 <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kcoz&layout=compact">
-
-- #🌻 she/her
-- #🌻 virgo ; intj ; 🟣🟢
-- #🌻 web programming ; 90's songs ; summer songs
-- #🌻 beep me [![Gmail Badge](https://img.shields.io/badge/-wecitra49@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wecitra49@gmail.com)](mailto:wecitra49@gmail.com) 
+#🌻 12th grade </br>
+#🌻 she/her </br>
+#🌻 virgo ; intj ; 🟣🟢 </br>
+#🌻 web programming ; 90's songs ; summer songs </br>
+#🌻 beep me <a href="mailto:wecitra49@gmail.com@gmail.com">wecitra49@gmail.com</a>
 
 <!---
   [![Stats](https://github-readme-stats.vercel.app/api?username=kcoz&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=kcoz&show_icons=true&theme=radical)
