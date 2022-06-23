@@ -1,8 +1,8 @@
 <!--- <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=doobeedoobeedam&layout=compact"> --->
-#🌻 12th grade </br>
+#🌻 I'm a carat 💎 ; ❤️ 우지 🍚</br>
 #🌻 she/her </br>
-#🌻 virgo ; intj ; 🟣🔴 </br>
-#🌻 web programming ; 90's songs ; summer songs </br>
+#🌻 intj ; ♍ ; 🟣🔴 </br>
+#🌻 web programming ; 17's songs ; 90's songs ; summer songs </br>
 #🌻 beep me <a href="mailto:wecitra49@gmail.com">wecitra49@gmail.com</a>
 
 <!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doobeedoobeedam&show_icons=true&locale=en" alt="doobeedoobeedam"/></p> --->
