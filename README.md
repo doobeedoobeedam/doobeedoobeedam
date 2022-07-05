@@ -1,7 +1,7 @@
 <!--- <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=doobeedoobeedam&layout=compact"> --->
 #🌻 she/her </br>
+#🌻 i*tj ; ♍ ; 🟣🔴 </br>
 #🌻 carat 💎 ; woozidan 🍚</br>
-#🌻 intj ; ♍ ; 🟣🔴 </br>
 #🌻 web programming ; 17's songs ; 90's songs ; summer songs </br>
 #🌻 beep me <a href="mailto:wecitra49@gmail.com">wecitra49@gmail.com</a>
 
