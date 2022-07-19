@@ -1,8 +1,11 @@
-🜸 ! # 𝘸𝘦𝘭𝘤𝘰𝘮𝘦 🍡꒱
-ᨏ <a href="wecitra.github.io">𝚠𝚎𝚌𝚒𝚝𝚛𝚊.𝚐𝚒𝚝𝚑𝚞𝚋.𝚒𝚘</a> ⌫
-ꗃ 𝐒𝐇𝐄/𝐇𝐄𝐑!
-⸙ ##ｉ* 𝚝 ᴊ  ਏਓ ᨀ ｖｉｒｇｏ ꗃ ꒱ // carat.⑰ //
-⇢ 𝘧𝘰𝘳 𝘮𝘺 𝘭𝘰𝘯𝘨 𝘵𝘪𝘮𝘦 𝘳𝘦𝘴𝘦𝘭𝘭𝘦𝘳𝘴, 𝘺𝘰𝘶 𝘤𝘢𝘯 beep 𝘮𝘦 𝘰𝘯 <a href="mailto:wecitra49@gmail.com">email</a>!
+🜸 ! # 𝘸𝘦𝘭𝘤𝘰𝘮𝘦 🍡꒱ </br>
+ᨏ <a href="wecitra.github.io">𝚠𝚎𝚌𝚒𝚝𝚛𝚊.𝚐𝚒𝚝𝚑𝚞𝚋.𝚒𝚘</a> ⌫ </br>
+ꗃ 𝐒𝐇𝐄/𝐇𝐄𝐑! </br>
+⸙ ##ｉ* 𝚝 ᴊ  ਏਓ ᨀ ｖｉｒｇｏ ꗃ ꒱ // carat.⑰ // </br>
+⇢ 𝘧𝘰𝘳 𝘮𝘺 𝘭𝘰𝘯𝘨 𝘵𝘪𝘮𝘦, 𝘺𝘰𝘶 𝘤𝘢𝘯 beep 𝘮𝘦 𝘰𝘯 <a href="mailto:wecitra49@gmail.com">email</a>! </br>
+</br>
+</br>
+ㅡ wishing you a great day! ς(>‿<.)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doobeedoobeedam&" alt="doobeedoobeedam" /></p>
 
