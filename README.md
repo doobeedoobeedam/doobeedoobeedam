@@ -7,8 +7,6 @@
 </br>
 ㅡ ɯι𝘴𝘩𝘪𝗻𝗴 уσυ 𝘢 𝗴𝗿𝗲𝗮𝘁 ꒯αყ! ς(>‿<.)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doobeedoobeedam&" alt="doobeedoobeedam" /></p>
-
 <!--- <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=doobeedoobeedam&layout=compact"> --->
 <!--- #🌻 she/her </br> --->
 <!--- #🌻 i*tj ; ♍ ; 🟣🔴 </br> --->
@@ -18,9 +16,4 @@
 
 <!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doobeedoobeedam&show_icons=true&locale=en" alt="doobeedoobeedam"/></p> --->
 
-<!---
-kcoz/kcoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- 
- 
+<!--- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doobeedoobeedam&" alt="doobeedoobeedam" /></p> --->
