@@ -1,7 +1,7 @@
 🜸 ! # welcome ꒱ </br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wib. 𝘯 of 365. 202𝘯   </br></br></br>
 ○ she/her </br>
-○ intj ᨀ virgo ᨀ carat.⑰ </br>
+○ virgo ᨀ carat.⑰ </br>
 ○ <a href="https://github.com/wecitra/">@wecitra</a>, <a href="https://github.com/doobeedoobeedam/">@doobeedoobeedam</a> </br>
 ○ <a href="https://wecitra.github.io">wecitra.github.io</a></br>
 ○ when I get the time, I’m really keen on reading and listening to music. but at some time, you can beep me on <a href="mailto:wecitra49@gmail.com">email</a>! </br></br></br>
